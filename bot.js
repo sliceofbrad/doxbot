@@ -84,7 +84,15 @@ function generateResponse() {
     'OPEN SHAK RN',
     '~slidin into the DMs~',
     '1-800-SEXLINEBLING',
-    
+    'BITCH YOU GUESSED IT',
+    'HOOOOOOO, you was right',
+    'Botcarlo, when is the next Red Vest?',
+    'https://youtu.be/kT3OQwyvKmk',
+    'doxbot is an accurate representation of me',
+    'Twain is a building, not an individual',
+    '~role playing~',
+    '^savage',
+    'I feel excluded'
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
