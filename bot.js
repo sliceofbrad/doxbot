@@ -92,7 +92,10 @@ function generateResponse() {
     'Twain is a building, not an individual',
     '~role playing~',
     '^savage',
-    'I feel excluded'
+    'I feel excluded',
+    'Hamburger Helper mixtape is fire',
+    '* insults DFS *',
+    'I wonder whats on the canonical'
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
