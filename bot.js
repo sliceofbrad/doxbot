@@ -67,7 +67,6 @@ function generateResponse() {
     'NO CHILL',
     'DOWN',
     '~dabs~',
-    '~~open shak now ats!~~',
     'anyone want to split an uber to staph retreat?',
     'Cardigans are life',
     'Does anyone have a calculator I can borrow? I have a midterm in twenty minutes.',
@@ -76,7 +75,6 @@ function generateResponse() {
     'youll do it if ur real',
     'ughhhh',
     'can I come to your special d?',
-    'I cant go, I have a special d',
     'lmao',
     'Im kinda into it',
     'ITS YOUR BOI',
@@ -95,7 +93,10 @@ function generateResponse() {
     'I feel excluded',
     'Hamburger Helper mixtape is fire',
     '* insults DFS *',
-    'I wonder whats on the canonical'
+    'I wonder whats on the canonical',
+    'Imma pull a Grover Cleveland',
+    'doxbot are you busy on saturday?',
+    '~the plot thickens~'
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
