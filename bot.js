@@ -59,25 +59,13 @@ function generateResponse() {
     'Ralph Lauren Polo',
     '~donuts tho~',
     '~brisket tho~',
-    'at least its not a white condiment',
-    'first rehearsal has to be coherent',
     'YEET YEET YEET',
     'ITS LIT',
     'NO CHILL',
-    '~dabs~',
-    'anyone want to split an uber to staph retreat?',
-    'Cardigans are life',
     'Does anyone have a calculator I can borrow? I have a midterm in twenty minutes.',
     'GUYS I MADE IT',
     'I love spoonman, putting it back in the folder is a great idea',
     'youll do it if ur real',
-    'ughhhh',
-    'can I come to your special d?',
-    'lmao',
-    'Im kinda into it',
-    'ITS YOUR BOI',
-    'you guys are brutal af',
-    'OPEN SHAK RN',
     '~slidin into the DMs~',
     '1-800-SEXLINEBLING',
     'BITCH YOU GUESSED IT',
@@ -94,7 +82,8 @@ function generateResponse() {
     'I wonder whats on the canonical',
     'Imma pull a Grover Cleveland',
     'doxbot are you busy on saturday?',
-    '~the plot thickens~'
+    '~the plot thickens~',
+    'doxbot shut up'
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
