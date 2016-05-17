@@ -83,7 +83,8 @@ function generateResponse() {
     'Imma pull a Grover Cleveland',
     'doxbot are you busy on saturday?',
     '~the plot thickens~',
-    'doxbot shut up'
+    'doxbot shut up',
+    'https://www.youtube.com/watch?v=wlWCPVgYJZE'
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
